@@ -1,4 +1,4 @@
-#what my project is about
+what my project is about
 
 Project Name: Todolist Website
 Description:
